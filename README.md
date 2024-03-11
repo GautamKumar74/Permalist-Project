@@ -45,5 +45,6 @@ Start the server
 
 ## Screenshots
 
-![PermalistProject](https://github.com/GautamKumar74/Permalist-Project/assets/113929742/f110e9c8-2b5c-40d5-a801-0011fa2dbfd2)
+![Screenshot (36)](https://github.com/GautamKumar74/Story/assets/113929742/bf0ffc04-e335-41f0-881a-a8234e62d3ba)
+
 
